@@ -1,16 +1,20 @@
-### Hi there 👋
+## Hello! Java boy here 😉👋
 
-<!--
-**alveesjoao/alveesjoao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is **João Victor** and I am a student of software engineering who leaves in Brazil.\
+Always trying to get better and studying more and more!! 😉✌️ 
 
-Here are some ideas to get you started:
+🛄[LinkedIn](https://www.linkedin.com/in/jo%C3%A3o-victor-alves-26ba20254/) \
+📸[Instagram](https://www.instagram.com/alveesjoao)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## About Me 👨‍🏫
+```java
+  public static void main (String[] args) {
+    Human Joao_Victor = new Human()
+
+    Joao_Victor.age = 18;
+    Joao_Victor.course = "Software Egineering";
+    Joao_Victor.corp = "Sodexo";
+    Joao_Victor.goal = "be a software developer";
+}
+```
