@@ -4,7 +4,7 @@ My name is **João Victor** and I am a student of software engineering who leave
 Always trying to get better and studying more and more!! 😉✌️ 
 
 🛄[LinkedIn](https://www.linkedin.com/in/jo%C3%A3o-victor-alves-26ba20254/) \
-📸[Instagram](https://www.instagram.com/alveesjoao)
+📸[Instagram](https://www.instagram.com/alveessjoao)
 
 
 ## About Me 👨‍🏫
