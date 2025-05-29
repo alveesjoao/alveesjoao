@@ -14,7 +14,7 @@ Always trying to get better and studying more and more!! 😉✌️
 
     Joao_Victor.age = 18;
     Joao_Victor.course = "Software Egineering";
-    Joao_Victor.corp = "Sodexo - Sandoz do Brasil";
-    Joao_Victor.goal = "be a software developer";
+    Joao_Victor.corp = "Sandoz";
+    Joao_Victor.goal = "do commits";
 }
 ```
